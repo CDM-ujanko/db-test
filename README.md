@@ -1,0 +1,1 @@
+## Dummy Rest Api DB setup for [my-json-server.typicode.com](my-json-server.typicode.com)
